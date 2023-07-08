@@ -1,0 +1,2 @@
+The wav.jpg needs to be in the same same folder where you compile the code.
+Example --> wav.jpg is in the "bin" folder
